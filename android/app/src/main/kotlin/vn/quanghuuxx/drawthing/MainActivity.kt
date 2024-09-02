@@ -1,0 +1,6 @@
+package vn.quanghuuxx.drawthing
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
